@@ -1,5 +1,4 @@
 <div align="center">
-    <img src="./card.png" alt="profile">
     <br><br>
     <section>
         <h4>🏢 Company</h4>
