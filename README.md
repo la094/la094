@@ -7,8 +7,6 @@
         </ul>
     </section>
     <br>
-    <hr>
-    <br>
     <section>
         <h6>Platform</h6>
         <ul>
