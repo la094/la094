@@ -1,7 +1,7 @@
 <div align="center">
     <br><br>
     <section>
-        <h4>🏢 Company</h4>
+        <h4>History</h4>
         <ul>
             <p>Dream Maker Inc (2020.04 ~ )</p>
         </ul>
@@ -10,7 +10,7 @@
     <hr>
     <br>
     <section>
-        <h3>✶ Platform</h3>
+        <h6>Platform</h6>
         <ul>
             <img src="https://img.shields.io/badge/React-61adbf?style=&logo=React&logoColor=white" alt="React"/>
             <img src="https://img.shields.io/badge/Android-3ddc84?style=&logo=Android&logoColor=white" alt="Android"/>
@@ -19,7 +19,7 @@
     </section>
     <br>
     <section>
-        <h3>✶ Languages</h3>
+        <h6>Languages</h6>
         <ul>
             <img src="https://img.shields.io/badge/HTML5-e34f26?style=&logo=HTML5&logoColor=white" alt="HTML5"/>
             <img src="https://img.shields.io/badge/CSS3-1572b6?style=&logo=CSS3&logoColor=white" alt="CSS3"/>
