@@ -1,5 +1,3 @@
-<div align="center">
-    <section>
-        <h4>Software Developer</h4>
-    </section>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nightowl094&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nightowl094&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
